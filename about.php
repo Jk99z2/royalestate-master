@@ -47,11 +47,11 @@
 						<li class="nav-item"><a href="index" class="nav-link">Home</a></li>
 						<li class="nav-item"><a href="property" class="nav-link">Property</a></li>
 						<li class="nav-item"><a href="agents" class="nav-link">Agents</a></li>
-						<li class="nav-item"><a href="about" class="nav-link">About</a></li>
+						<li class="nav-item active"><a href="about" class="nav-link">About</a></li>
 						<li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
-						<li class="nav-item active"><a href="contact" class="nav-link">Contact</a></li>
-						<li class="nav-item cta"><a href="#" class="nav-link ml-lg-2"><span class="icon-user"></span> Sign-In</a></li>
-						<li class="nav-item cta cta-colored"><a href="#" class="nav-link"><span class="icon-pencil"></span> Sign-Up</a></li>
+						<li class="nav-item"><a href="contact" class="nav-link">Contact</a></li>
+						<li class="nav-item cta"><a href="contact" class="nav-link ml-lg-2"><span class="icon-user"></span> Sign-In</a></li>
+						<li class="nav-item cta cta-colored"><a href="contact" class="nav-link"><span class="icon-pencil"></span> Sign-Up</a></li>
 					</ul>
 				</div>
 			</div>
@@ -62,63 +62,164 @@
 			<div class="container">
 				<div class="row no-gutters slider-text align-items-center justify-content-center">
 					<div class="col-md-9 ftco-animate text-center">
-						<p class="breadcrumbs"><span class="mr-2"><a href="index">Home</a></span> <span>Contact</span></p>
-						<h1 class="mb-3 bread">Contact Us</h1>
+						<p class="breadcrumbs"><span class="mr-2"><a href="index">Home</a></span> <span>About</span></p>
+						<h1 class="mb-3 bread">About</h1>
 					</div>
 				</div>
 			</div>
 		</div>
-		<section class="ftco-section contact-section bg-light">
+		<section class="ftco-section ftc-no-pb">
 			<div class="container">
-				<div class="row d-flex mb-5 contact-info">
-					<div class="col-md-12 mb-4">
-						<h2 class="h3">Contact Information</h2>
+				<div class="row no-gutters">
+					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/about.jpg);">
+						<a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
+						<span class="icon-play"></span>
+						</a>
 					</div>
-					<div class="w-100"></div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+					<div class="col-md-7 wrap-about pb-md-5 ftco-animate">
+						<div class="heading-section heading-section-wo-line mb-5 pl-md-5">
+							<div class="pl-md-5 ml-md-5">
+								<span class="subheading">Company Overview</span>
+								<h2 class="mb-4">Learned about the Law</h2>
+							</div>
 						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Website</span> <a href="#">yoursite.com</a></p>
+						<div class="pl-md-5 ml-md-5 mb-5">
+							<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+							<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.</p>
+							<p><a href="#" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a></p>
 						</div>
 					</div>
 				</div>
-				<div class="row block-9">
-					<div class="col-md-6 order-md-last d-flex">
-						<form action="#" class="bg-white p-5 contact-form">
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Your Name">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Your Email">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Subject">
-							</div>
-							<div class="form-group">
-								<textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-							</div>
-							<div class="form-group">
-								<input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
-							</div>
-						</form>
+			</div>
+		</section>
+		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_1.jpg);">
+			<div class="container">
+				<div class="row justify-content-center mb-3 pb-3">
+					<div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+						<h2 class="mb-4">Some fun facts</h2>
 					</div>
-					<div class="col-md-6 d-flex">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.874021495058!2d-104.3394292480467!3d19.123585655913434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8424d6f477753ddd%3A0x9d69d8cca9a055c!2sOchoa%20Real%20Estate%20Services!5e0!3m2!1ses!2smx!4v1651766678320!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="bg-white"></iframe>
-					</div> <!-- Put your own URL generated by Google Maps inside src -->
+				</div>
+				<div class="row justify-content-center">
+					<div class="col-md-10">
+						<div class="row">
+							<div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+								<div class="block-18 text-center">
+									<div class="text">
+										<strong class="number" data-number="9000">0</strong>
+										<span>Happy Customers</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+								<div class="block-18 text-center">
+									<div class="text">
+										<strong class="number" data-number="10000">0</strong>
+										<span>Properties</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+								<div class="block-18 text-center">
+									<div class="text">
+										<strong class="number" data-number="1000">0</strong>
+										<span>Agents</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+								<div class="block-18 text-center">
+									<div class="text">
+										<strong class="number" data-number="100">0</strong>
+										<span>Awards</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="ftco-section testimony-section bg-light">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8 ftco-animate">
+						<div class="row ftco-animate">
+							<div class="col-md-12">
+								<div class="carousel-testimony owl-carousel ftco-owl">
+									<div class="item">
+										<div class="testimony-wrap py-4 pb-5">
+											<div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
+												<span class="quote d-flex align-items-center justify-content-center">
+												<i class="icon-quote-left"></i>
+												</span>
+											</div>
+											<div class="text text-center">
+												<p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+												<p class="name">Roger Scott</p>
+												<span class="position">Clients</span>
+											</div>
+										</div>
+									</div>
+									<div class="item">
+										<div class="testimony-wrap py-4 pb-5">
+											<div class="user-img mb-4" style="background-image: url(images/person_2.jpg)">
+												<span class="quote d-flex align-items-center justify-content-center">
+												<i class="icon-quote-left"></i>
+												</span>
+											</div>
+											<div class="text text-center">
+												<p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+												<p class="name">Roger Scott</p>
+												<span class="position">Agent</span>
+											</div>
+										</div>
+									</div>
+									<div class="item">
+										<div class="testimony-wrap py-4 pb-5">
+											<div class="user-img mb-4" style="background-image: url(images/person_3.jpg)">
+												<span class="quote d-flex align-items-center justify-content-center">
+												<i class="icon-quote-left"></i>
+												</span>
+											</div>
+											<div class="text text-center">
+												<p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+												<p class="name">Roger Scott</p>
+												<span class="position">Client</span>
+											</div>
+										</div>
+									</div>
+									<div class="item">
+										<div class="testimony-wrap py-4 pb-5">
+											<div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
+												<span class="quote d-flex align-items-center justify-content-center">
+												<i class="icon-quote-left"></i>
+												</span>
+											</div>
+											<div class="text text-center">
+												<p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+												<p class="name">Roger Scott</p>
+												<span class="position">Client</span>
+											</div>
+										</div>
+									</div>
+									<div class="item">
+										<div class="testimony-wrap py-4 pb-5">
+											<div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
+												<span class="quote d-flex align-items-center justify-content-center">
+												<i class="icon-quote-left"></i>
+												</span>
+											</div>
+											<div class="text text-center">
+												<p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+												<p class="name">Roger Scott</p>
+												<span class="position">Client</span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
@@ -212,6 +313,7 @@
 				<circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
 				<circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/>
 			</svg>
+		</div>
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery-migrate-3.0.1.min.js"></script>
 		<script src="js/popper.min.js"></script>
@@ -221,7 +323,7 @@
 		<script src="js/jquery.stellar.min.js"></script>
 		<script src="js/owl.carousel.min.js"></script>
 		<script src="js/jquery.magnific-popup.min.js"></script>
-		<script src="js/aos.js"></script> 
+		<script src="js/aos.js"></script>
 		<script src="js/jquery.animateNumber.min.js"></script>
 		<script src="js/bootstrap-datepicker.js"></script>
 		<script src="js/jquery.timepicker.min.js"></script>

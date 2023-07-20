@@ -48,10 +48,10 @@
 						<li class="nav-item"><a href="property" class="nav-link">Property</a></li>
 						<li class="nav-item"><a href="agents" class="nav-link">Agents</a></li>
 						<li class="nav-item"><a href="about" class="nav-link">About</a></li>
-						<li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
-						<li class="nav-item active"><a href="contact" class="nav-link">Contact</a></li>
-						<li class="nav-item cta"><a href="#" class="nav-link ml-lg-2"><span class="icon-user"></span> Sign-In</a></li>
-						<li class="nav-item cta cta-colored"><a href="#" class="nav-link"><span class="icon-pencil"></span> Sign-Up</a></li>
+						<li class="nav-item active"><a href="blog" class="nav-link">Blog</a></li>
+						<li class="nav-item"><a href="contact" class="nav-link">Contact</a></li>
+						<li class="nav-item cta"><a href="contact" class="nav-link ml-lg-2"><span class="icon-user"></span> Sign-In</a></li>
+						<li class="nav-item cta cta-colored"><a href="contact" class="nav-link"><span class="icon-pencil"></span> Sign-Up</a></li>
 					</ul>
 				</div>
 			</div>
@@ -62,63 +62,142 @@
 			<div class="container">
 				<div class="row no-gutters slider-text align-items-center justify-content-center">
 					<div class="col-md-9 ftco-animate text-center">
-						<p class="breadcrumbs"><span class="mr-2"><a href="index">Home</a></span> <span>Contact</span></p>
-						<h1 class="mb-3 bread">Contact Us</h1>
+						<p class="breadcrumbs"><span class="mr-2"><a href="index">Home</a></span> <span>Blog</span></p>
+						<h1 class="mb-3 bread">Blog</h1>
 					</div>
 				</div>
 			</div>
 		</div>
-		<section class="ftco-section contact-section bg-light">
+		<section class="ftco-section bg-light">
 			<div class="container">
-				<div class="row d-flex mb-5 contact-info">
-					<div class="col-md-12 mb-4">
-						<h2 class="h3">Contact Information</h2>
-					</div>
-					<div class="w-100"></div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+				<div class="row d-flex">
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_1.jpg');">
+							</a>
+							<div class="text mt-3 d-block">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_2.jpg');">
+							</a>
+							<div class="text mt-3">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_3.jpg');">
+							</a>
+							<div class="text mt-3">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-3 d-flex">
-						<div class="info bg-white p-4">
-							<p><span>Website</span> <a href="#">yoursite.com</a></p>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_4.jpg');">
+							</a>
+							<div class="text mt-3">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_5.jpg');">
+							</a>
+							<div class="text mt-3 d-block">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_6.jpg');">
+							</a>
+							<div class="text mt-3">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_7.jpg');">
+							</a>
+							<div class="text mt-3">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 d-flex ftco-animate">
+						<div class="blog-entry align-self-stretch">
+							<a href="blog-single" class="block-20" style="background-image: url('images/image_8.jpg');">
+							</a>
+							<div class="text mt-3">
+								<h3 class="heading mt-3"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+								<div class="meta mb-3">
+									<div><a href="#">Dec 6, 2018</a></div>
+									<div><a href="#">Admin</a></div>
+									<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="row block-9">
-					<div class="col-md-6 order-md-last d-flex">
-						<form action="#" class="bg-white p-5 contact-form">
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Your Name">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Your Email">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Subject">
-							</div>
-							<div class="form-group">
-								<textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-							</div>
-							<div class="form-group">
-								<input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
-							</div>
-						</form>
+				<div class="row mt-5">
+					<div class="col text-center">
+						<div class="block-27">
+							<ul>
+								<li><a href="#">&lt;</a></li>
+								<li class="active"><span>1</span></li>
+								<li><a href="#">2</a></li>
+								<li><a href="#">3</a></li>
+								<li><a href="#">4</a></li>
+								<li><a href="#">5</a></li>
+								<li><a href="#">&gt;</a></li>
+							</ul>
+						</div>
 					</div>
-					<div class="col-md-6 d-flex">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.874021495058!2d-104.3394292480467!3d19.123585655913434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8424d6f477753ddd%3A0x9d69d8cca9a055c!2sOchoa%20Real%20Estate%20Services!5e0!3m2!1ses!2smx!4v1651766678320!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="bg-white"></iframe>
-					</div> <!-- Put your own URL generated by Google Maps inside src -->
 				</div>
 			</div>
 		</section>
@@ -212,6 +291,7 @@
 				<circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
 				<circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/>
 			</svg>
+		</div>
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery-migrate-3.0.1.min.js"></script>
 		<script src="js/popper.min.js"></script>
@@ -221,7 +301,7 @@
 		<script src="js/jquery.stellar.min.js"></script>
 		<script src="js/owl.carousel.min.js"></script>
 		<script src="js/jquery.magnific-popup.min.js"></script>
-		<script src="js/aos.js"></script> 
+		<script src="js/aos.js"></script>
 		<script src="js/jquery.animateNumber.min.js"></script>
 		<script src="js/bootstrap-datepicker.js"></script>
 		<script src="js/jquery.timepicker.min.js"></script>
